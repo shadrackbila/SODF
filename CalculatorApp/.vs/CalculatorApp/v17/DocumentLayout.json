@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Boitu\\OneDrive\\Desktop\\223038085\\CalculatorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57CB9339-215C-4E4B-BAC6-7E6659767FA1}|CalculatorApp.csproj|c:\\users\\boitu\\onedrive\\desktop\\223038085\\calculatorapp\\views\\home\\listcalculators.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57CB9339-215C-4E4B-BAC6-7E6659767FA1}|CalculatorApp.csproj|solutionrelative:views\\home\\listcalculators.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CB9339-215C-4E4B-BAC6-7E6659767FA1}|CalculatorApp.csproj|c:\\users\\boitu\\onedrive\\desktop\\223038085\\calculatorapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CB9339-215C-4E4B-BAC6-7E6659767FA1}|CalculatorApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CB9339-215C-4E4B-BAC6-7E6659767FA1}|CalculatorApp.csproj|c:\\users\\boitu\\onedrive\\desktop\\223038085\\calculatorapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57CB9339-215C-4E4B-BAC6-7E6659767FA1}|CalculatorApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CB9339-215C-4E4B-BAC6-7E6659767FA1}|CalculatorApp.csproj|c:\\users\\boitu\\onedrive\\desktop\\223038085\\calculatorapp\\views\\home\\calculatoradded.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57CB9339-215C-4E4B-BAC6-7E6659767FA1}|CalculatorApp.csproj|solutionrelative:views\\home\\calculatoradded.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CB9339-215C-4E4B-BAC6-7E6659767FA1}|CalculatorApp.csproj|c:\\users\\boitu\\onedrive\\desktop\\223038085\\calculatorapp\\views\\home\\addcalculator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57CB9339-215C-4E4B-BAC6-7E6659767FA1}|CalculatorApp.csproj|solutionrelative:views\\home\\addcalculator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CB9339-215C-4E4B-BAC6-7E6659767FA1}|CalculatorApp.csproj|c:\\users\\boitu\\onedrive\\desktop\\223038085\\calculatorapp\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CB9339-215C-4E4B-BAC6-7E6659767FA1}|CalculatorApp.csproj|solutionrelative:models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CB9339-215C-4E4B-BAC6-7E6659767FA1}|CalculatorApp.csproj|c:\\users\\boitu\\onedrive\\desktop\\223038085\\calculatorapp\\models\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CB9339-215C-4E4B-BAC6-7E6659767FA1}|CalculatorApp.csproj|solutionrelative:models\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListCalculators.cshtml",
+              "DocumentMoniker": "C:\\Users\\Boitu\\OneDrive\\Desktop\\223038085\\CalculatorApp\\Views\\Home\\ListCalculators.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ListCalculators.cshtml",
+              "ToolTip": "C:\\Users\\Boitu\\OneDrive\\Desktop\\223038085\\CalculatorApp\\Views\\Home\\ListCalculators.cshtml",
+              "RelativeToolTip": "Views\\Home\\ListCalculators.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-05T04:04:34.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Boitu\\OneDrive\\Desktop\\223038085\\CalculatorApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Boitu\\OneDrive\\Desktop\\223038085\\CalculatorApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-05T03:54:38.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Boitu\\OneDrive\\Desktop\\223038085\\CalculatorApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Boitu\\OneDrive\\Desktop\\223038085\\CalculatorApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T03:55:08.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculatorAdded.cshtml",
+              "DocumentMoniker": "C:\\Users\\Boitu\\OneDrive\\Desktop\\223038085\\CalculatorApp\\Views\\Home\\CalculatorAdded.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\CalculatorAdded.cshtml",
+              "ToolTip": "C:\\Users\\Boitu\\OneDrive\\Desktop\\223038085\\CalculatorApp\\Views\\Home\\CalculatorAdded.cshtml",
+              "RelativeToolTip": "Views\\Home\\CalculatorAdded.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAACEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-05T04:03:53.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddCalculator.cshtml",
+              "DocumentMoniker": "C:\\Users\\Boitu\\OneDrive\\Desktop\\223038085\\CalculatorApp\\Views\\Home\\AddCalculator.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\AddCalculator.cshtml",
+              "ToolTip": "C:\\Users\\Boitu\\OneDrive\\Desktop\\223038085\\CalculatorApp\\Views\\Home\\AddCalculator.cshtml",
+              "RelativeToolTip": "Views\\Home\\AddCalculator.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAEIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-05T03:55:59.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Boitu\\OneDrive\\Desktop\\223038085\\CalculatorApp\\Models\\Repository.cs",
+              "RelativeDocumentMoniker": "Models\\Repository.cs",
+              "ToolTip": "C:\\Users\\Boitu\\OneDrive\\Desktop\\223038085\\CalculatorApp\\Models\\Repository.cs",
+              "RelativeToolTip": "Models\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T03:57:33.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Calc.cs",
+              "DocumentMoniker": "C:\\Users\\Boitu\\OneDrive\\Desktop\\223038085\\CalculatorApp\\Models\\Calc.cs",
+              "RelativeDocumentMoniker": "Models\\Calc.cs",
+              "ToolTip": "C:\\Users\\Boitu\\OneDrive\\Desktop\\223038085\\CalculatorApp\\Models\\Calc.cs",
+              "RelativeToolTip": "Models\\Calc.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T03:53:34.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

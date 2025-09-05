@@ -1,0 +1,73 @@
+﻿@model IEnumerable<CalculatorApp.Models.Calc>
+
+@{
+
+    Layout = null;
+
+}
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <meta name="viewport" content="width=device-width" />
+
+    <title>Calculators</title>
+
+</head>
+
+<body>
+
+    <h2>Here is the current list of calculators</h2>
+
+    <table>
+
+        <thead>
+
+            <tr>
+
+                <th>Serial Nr</th>
+
+                <th>Make</th>
+
+                <th>Model</th>
+
+                <th>Functions</th>
+
+            </tr>
+
+
+
+        </thead>
+
+        <tbody>
+
+            @foreach (CalculatorApp.Models.Calc r in Model)
+
+            {
+
+                <tr>
+
+                    <td>@r.SerialNr</td>
+
+                    <td>@r.Make</td>
+
+                    <td>@r.Model</td>
+
+                    <td>@r.Functions</td>
+
+                </tr>
+
+            }
+
+        </tbody>
+
+    </table>
+
+</body>
+
+</html>
+
+

@@ -1,0 +1,67 @@
+﻿@model CalculatorApp.Models.Calc
+
+
+
+@{
+
+	Layout = null;
+
+}
+
+
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+	<meta name="viewport" content="width=device-width" />
+
+	<title>Add a Calculator</title>
+
+</head>
+
+<body>
+
+    <form asp-action="AddCalculator" method="post">
+
+        <p>
+
+            <label asp-for="SerialNr">Serial number:</label>
+
+            <input asp-for="SerialNr" />
+
+        </p>
+
+        <p>
+
+            <label asp-for="Make">Make of calculator:</label>
+
+            <input asp-for="Make" />
+
+        </p>
+
+        <p>
+
+            <label asp-for="Model">Model of calculator:</label>
+
+            <input asp-for="Model" />
+
+        </p>
+
+        <p>
+
+            <label asp-for="Functions">Number of functions:</label>
+
+            <input asp-for="Functions" />
+
+        </p>
+
+        <button type="submit">Add new calculator</button>
+
+    </form>
+
+</body>
+
+</html>
